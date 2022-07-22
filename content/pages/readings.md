@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the list of required readings and suggested readings
+  for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 221bd33b-3166-c264-824f-1ef91fbcd3ea
 ---

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the student presentations required
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a33e3e99-ed3a-16a4-4ac4-898764266c86
 ---
