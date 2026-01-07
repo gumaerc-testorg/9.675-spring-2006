@@ -353,7 +353,7 @@ Fahle, M. "Learning to Tell Apples from Oranges." _Trends in Cognitive Sciences_
 Gomez, J. "Species Comparative Studies and Cognitive Development." _Trends in Cognitive Science_ 9, no. 3 (2005): 118-125.
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "f4f654a3-7043-4baf-be92-6a3098e8aa97" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Johnson, M. H. "Developing An Attentive Brain." In {{% resource_link "f4f654a3-7043-4baf-be92-6a3098e8aa97" "_The Attentive Brain_" %}}. Edited by R. Parasuraman. Cambridge, MA: MIT Press, 1998, pp. 427-444. ISBN: 0262161729.  
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/attentive-brain) Johnson, M. H. "Developing An Attentive Brain." In [_The Attentive Brain_](https://mitpress.mit.edu/books/attentive-brain). Edited by R. Parasuraman. Cambridge, MA: MIT Press, 1998, pp. 427-444. ISBN: 0262161729.  
   
 Johnson, M. H., and R. O. Gilmore. "Object-centered Attention in Eight-month-old Infants." _Developmental Science_ 1 (1998): 221-225.  
   
